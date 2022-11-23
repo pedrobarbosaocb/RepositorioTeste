@@ -22,7 +22,7 @@ _Há algumas formas de se instalar o Metabase, entretanto como é indicado pelo 
 	- java -jar metabase.jar
 
 6. Verifique se o seu terminal apareceu da seguinte forma
-![alt text](img/Pasted image 20221123122912.png)
+![Pasted image 20221123122912.png](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/docs/img/Pasted%20image%2020221123122912.png?raw=true)
 	- Se sim, vá para o próximo passo. Caso contrário, se desespere, beba água novamente e se acalme, copie o erro que deu e cole no google, caso a partir disso você não encontre uma solução fique a vontade para entrar em contato comigo.
 
 6. Abra o seu navegador de preferência e acesse a port 3000:
@@ -30,5 +30,5 @@ _Há algumas formas de se instalar o Metabase, entretanto como é indicado pelo 
 		- localhost:3000
 
 7. Com isso é esperado que a seguinte página apareça:
-![[Pasted image 20221123123632.png]]
+![Pasted image 20221123123632.png](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/docs/img/Pasted%20image%2020221123123632.png?raw=true)
 ---

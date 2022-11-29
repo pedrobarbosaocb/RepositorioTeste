@@ -10,7 +10,7 @@ Bem vinda(o), antes de começar não se esqueça de tomar água!<br>
 _Há algumas formas de se instalar o Metabase, entretanto como é indicado pelo site oficial como a maneira mais tranquila, iremos utilizar do temido Java._
 
 1. Verifique se o Java está instalado em sua máquina
-	- [Link de Instalação]([https://www.java.com/download/ie_manual.jsp](https://adoptium.net/download/))
+	- [Link de Instalação](https://www.java.com/download/ie_manual.jsp](https://adoptium.net/download/)
 
 2. Acesse o link a seguir para baixar o arquivo .jar do metabase
 	- [Clique aqui](https://www.metabase.com/start/oss/jar)

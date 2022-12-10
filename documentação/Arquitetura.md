@@ -52,9 +52,13 @@
 ## Diagrama de Classes
 <div id='Diagrama de Classes'/>
 
+![Diagrama de classes](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/Diagrama%20de%20classes.jpeg)
+
 
 ## Diagrama de Pacotes
 <div id='Diagrama de Pacotes'/>
+
+![Diagrama de Pacotes](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/Diagrama%20de%20Pacotes.jpeg)
 
 
 

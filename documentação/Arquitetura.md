@@ -30,12 +30,13 @@
 # Representação da arquitetura
 <div id='Representação'/>
 
+![Reperesentação da arquitetura](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/Arquitetura3.png)
+
 
 
 ## Front-end
-
-
-
+### Flask
+ - o Flask é um micro-framework destinado principalmente a pequenas aplicações com requisitos mais simples, como por exemplo, a criação de um site básico. Possuir apenas o necessário para o desenvolvimento de uma aplicação,os projetos escritos em Flask tendem a ser menores e mais leves se comparados a frameworks maiores.
 
 ## Back-end
 

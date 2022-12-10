@@ -15,16 +15,17 @@
    1. [Finalidade](#finalidade)
    2. [Escopo](#Escopo)
    4. [Representação da arquitetura](#Representação)
-   6. [Diagrama de Classes](#Diagrama de Classes)
-   7. [Diagrama de Pacotes](#Diagrama de Pacotes)
+   6. [Diagrama de Classes](#Classes)
+   7. [Diagrama de Pacotes](#Pacotes)
 
 
 # Finalidade
 <div id='Finalidade'/>
 
-   - QuantiFGA é uma funcionalidade a qual vai funcionar em uma pagina web e é baseada em web crawler. O site vai ser criado com intuito de ajudar a cordenação da FGA...
+   - QuantiFGA tem como intuito ser uma ferramenta para ajudar a cordenação da FGA em relação a distribuição de alunos as disciplinas, podendo por meio do QuantiFGA observar as salas com maior porcentagem de vagas e cadeiras vazias, de acordo com o horário e sala. Ademais, o software contém uma ferramenta de simulação da alteração das quantidades da disciplina escolhida.
 
 # Escopo
+<div id='Escopo'/>
 - Já imaginou um software com a funcionalidade de mostrar as salas cadastradas no SIGAA e mostrar os dados da sua taxa de ocupação, professor da turma, quantidade de alunos cadastrados na matéria e o horário e por essas informações e colocar em um gráfico? O software proposto é uma página web que possui um robozinho que pega essas informações no portal do SIGAA e gera um gráfico para facilitar a coordenação na análise de locação de turmas no semestre.
 
 # Representação da arquitetura
@@ -50,13 +51,13 @@
 - Selenium é um conjunto de ferramentas de código aberto multiplataforma, usado para testar aplicações web pelo browser de forma automatizada. Ele executa testes de funcionalidades da aplicação web e testes de compatibilidade entre browser e plataformas diferentes. O Selenium suporta diversas linguagens de programação. A linguagem escolhida para utilizar foi o python e também será utilizado o selenium webdriver que usa o próprio driver do navegador para a automação.
 
 ## Diagrama de Classes
-<div id='Diagrama de Classes'/>
+<div id='Classes'/>
 
 ![Diagrama de classes](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/Diagrama%20de%20classes.jpeg)
 
 
 ## Diagrama de Pacotes
-<div id='Diagrama de Pacotes'/>
+<div id='Pacotes'/>
 
 ![Diagrama de Pacotes](https://github.com/pedrobarbosaocb/RepositorioTeste/blob/main/Diagrama%20de%20Pacotes.jpeg)
 
